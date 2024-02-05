@@ -1,7 +1,12 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="##">Andrés Colonia</a> 👋</h1>
 </div>
-<img src="https://c3.klipartz.com/pngpicture/994/517/sticker-png-coder-smaller-warning-signage.png">
+
+<div align="center">
+  <img width="840" height="360" src="https://c3.klipartz.com/pngpicture/994/517/sticker-png-coder-smaller-warning-signage.png"  />
+</div>
+
+###
 
 ###
 
